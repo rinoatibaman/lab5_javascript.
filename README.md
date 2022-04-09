@@ -1,1 +1,1 @@
-# lab5_javascript.
+# lab5_javascript
